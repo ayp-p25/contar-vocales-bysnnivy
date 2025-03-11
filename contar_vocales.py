@@ -1,6 +1,6 @@
 
 def contar_vocales(texto):
-    vocales = "aeiouAEIOU"
+    vocales = "aeiouAEIOUáéíóúü"
     total_vocales = 0
     a = 0
     
